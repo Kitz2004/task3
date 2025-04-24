@@ -1,10 +1,10 @@
 # 📁 Anime Table Export
 
-This repository contains the exported `anime` table from the MySQL database `folder1`. It includes the SQL file (`anime.sql`) for importing the table, along with documentation and example queries.
+This repository contains the exported `anime` table from the MySQL database `folder1`. It includes the SQL file task3 for importing the table, along with documentation and example queries.
 
 ## 📦 Files Included
 
-- `anime.sql` – Full SQL dump of the `anime` table (structure + data)
+- `task3` – Full SQL dump of the `anime` table (structure + data)
 - `README.md` – Project overview and usage instructions
 
 ## 📋 Table Overview
